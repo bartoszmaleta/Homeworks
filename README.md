@@ -19,7 +19,7 @@ __________________________
 https://github.com/bartoszmaleta/loginForm
 __________________________
 7) SI 5, FilePartReader:
-
+https://github.com/bartoszmaleta/filePartReaderWithTests
 __________________________
 8) SI 6, @Webroute:
 
