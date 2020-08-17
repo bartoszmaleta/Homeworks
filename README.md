@@ -28,4 +28,4 @@ __________________________
 https://github.com/bartoszmaleta/servletWithAnnotation
 __________________________
 10) SI 6, Practice JPA:
-
+https://github.com/bartoszmaleta/javaEeJpa
